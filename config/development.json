@@ -1,0 +1,11 @@
+{
+    "server": {
+      "host": "localhost",
+      "port": 8080
+    },
+    "mongodb":{
+      "username":"lucasheung0822",
+      "password":""
+    }
+
+}
